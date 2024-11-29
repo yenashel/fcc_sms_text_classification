@@ -6,3 +6,4 @@ cats_and_dogs/**
 *.zip*
 *.jpg*
 *.csv*
+*.tsv*
