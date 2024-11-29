@@ -1,0 +1,8 @@
+__pycache__/
+__MACOSX/
+.DS_Store
+.jpg
+cats_and_dogs/**
+*.zip*
+*.jpg*
+*.csv*
